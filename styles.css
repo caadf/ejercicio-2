@@ -19,7 +19,8 @@ body{
     margin:auto;
     transform:rotate(45deg);
     margin-top: 100px;
-    margin-left:50px;
+    margin-left:90px;
+    color: grey;
 }
 .body-right{
     width: 300px;
@@ -30,7 +31,8 @@ body{
     display:block;
     width: 200px;
     height:100px;
-    margin-top: 40px
+    margin-top: 40px;
+   
     
 }
 
@@ -41,6 +43,7 @@ body{
 
 .nombre{
     margin-bottom: 15px;
+   
 }
 
 .mensaje{
@@ -52,5 +55,6 @@ body{
 }
 
 .mail{
-    margin-bottom: 100px;
+    margin-bottom: 15px;
 }
+
