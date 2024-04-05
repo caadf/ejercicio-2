@@ -1,5 +1,5 @@
 body{
-    background-color: lightskyblue;
+    background-color: lightseagreen;
 }
 .container{
     background-color: white;
@@ -15,24 +15,24 @@ body{
     height:300px
 }
 .fa-envelope{
-    font-size: 60px;
+    font-size: 90px;
     margin:auto;
     transform:rotate(45deg);
     margin-top: 100px;
     margin-left:90px;
-    color: grey;
+    color: yellowgreen;
 }
 .body-right{
     width: 300px;
     height:200px;
 }
     
-.button{
+button{
     display:block;
-    width: 200px;
-    height:100px;
+    width: 60px;
+    height:80px;
     margin-top: 40px;
-   
+  
     
 }
 
@@ -48,6 +48,7 @@ body{
 
 .mensaje{
     margin-bottom:15px;
+   
 }
 
 .sujeto{
